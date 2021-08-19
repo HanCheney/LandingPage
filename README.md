@@ -1,5 +1,5 @@
 # Vuetify Landing Page Template
-
+[Home](https://github.com)
 #### This is an example of a landing page built with vue and vuetify.
 
 
