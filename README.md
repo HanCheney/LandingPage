@@ -1,5 +1,5 @@
 # Vuetify Landing Page Template
-![Home](https://github.com/HanCheney/LandingPage/blob/master/images/demo.png)
+![Home](https://github.com/HanCheney/LandingPage/blob/2962addeee4644faa85186735464750241dddd2b/images/demo.png)
 #### This is an example of a landing page built with vue and vuetify.
 
 
